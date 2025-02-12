@@ -1,0 +1,12 @@
+function sum() {
+    let a = 5
+    let b = 10
+    let c = a + b
+    console.log(c);
+}
+function multiply() {
+    let a = 5
+    let b = 10
+    let c = a * b
+    console.log(c);
+}
